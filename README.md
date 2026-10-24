@@ -1,6 +1,6 @@
 # SurplusLink AI
 
-**[Pitch video link — add before submission]**
+**[Watch the pitch video on YouTube](https://youtu.be/5qIX6nmmh7M?si=0P61jhr7LzgavBqI)**
 
 **SDC Hackathon 2026 — Domain 2: Orbyte Smart SME Challenge**
 **Team: X-Force**
@@ -14,8 +14,6 @@ stock in seconds (AI reads messy text or a photo to pre-fill the listing and exp
 automatically prices it based on days remaining, matches it to nearby buyers, and tracks the
 deal through chat, approval, handover and impact reporting — reducing waste and recovering
 value that would otherwise be lost.
-
-_(Placeholder wording — update once final pitch angle is locked in.)_
 
 ## Tech stack
 
