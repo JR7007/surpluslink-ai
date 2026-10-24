@@ -1,6 +1,6 @@
 // Gemini integration. NOTE: the key is exposed in the browser — fine for a hackathon demo, proxy it for production.
 const KEY = import.meta.env.VITE_GEMINI_API_KEY,
-  MODEL = "gemini-2.5-flash";
+  MODEL = "gemini-3.8-flash";
 const URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${KEY}`;
 const today = () => new Date().toISOString().slice(0, 10);
 async function call(prompt, images = [], json = true) {
