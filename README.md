@@ -26,7 +26,7 @@ _(Placeholder wording — update once final pitch angle is locked in.)_
 
 ## Live demo
 
-**[Replit live URL — add once deployed]**
+**[https://surpluslink-ai.replit.app](https://surpluslink-ai.replit.app)**
 
 ## For judges: quick start
 

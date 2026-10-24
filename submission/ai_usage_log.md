@@ -4,7 +4,7 @@ This document discloses the AI tools used in this project, both inside the produ
 
 ## 1. In-app AI (part of the product)
 
-**Tool:** Google Gemini API (model: TO BE CONFIRMED after model fix)
+**Tool:** Google Gemini API (model: gemini-3.8-flash)
 
 Used at runtime, inside the deployed app, for:
 
