@@ -5,3 +5,12 @@ channel = "stable-25_05"
 
 [agent]
 expertMode = true
+
+[deployment]
+build = ["npm", "run", "build"]
+run = ["npm", "run", "start"]
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 3001
+externalPort = 80
